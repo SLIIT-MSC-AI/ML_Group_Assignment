@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Data files 
+data/*.csv
+
 # Distribution / packaging
 .Python
 build/
@@ -76,7 +79,8 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__/
 
 # IPython
 profile_default/
@@ -143,6 +147,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.pyc
 
 # Spyder project settings
 .spyderproject
