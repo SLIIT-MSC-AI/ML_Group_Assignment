@@ -1,0 +1,13 @@
+ML Assignment - Submission Details
+
+
+Dataset:
+  Name:   Online News Popularity
+  Source: UCI Machine Learning Repository
+  Link:   https://www.kaggle.com/datasets/thehapyone/uci-online-news-popularity-data-set
+
+GitHub Repository:
+  Link:   https://github.com/SLIIT-MSC-AI/ML_Group_Assignment.git
+
+YouTube Presentation:
+  Link:   
